@@ -1,0 +1,2 @@
+# A-Makers-World-Workshop-Materials
+Many of us may already have the skills needed to dive into the maker’s world of embedded  electronics, but have trouble getting started. In this workshop, we will get hands-on with several  projects that have been created using a few platforms available for makers, such as Arduino and  Adafruit micro controllers, in order to get a taste of the making process and the tools involved.  We will review more of the available platforms for makers, and perform some of the more  advanced steps in the project creating and building process.
