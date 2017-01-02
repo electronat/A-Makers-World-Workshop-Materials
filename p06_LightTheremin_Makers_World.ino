@@ -60,7 +60,7 @@ void loop() {
   tone(8, pitch, 20);
 
   // wait for a moment
-  // TODO: Try setting the delay value in the parentheses to 10, 1000, and 3000 and see what difference it makes every time you upload the program to your circuit.
+  // TODO: Try setting the delay value in the parentheses to 10, 100, and 1000 and see what difference it makes every time you upload the program to your circuit.
   delay();
 }
 
