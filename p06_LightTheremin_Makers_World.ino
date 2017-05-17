@@ -1,4 +1,4 @@
-/*
+ /*
   Arduino Starter Kit example
  Project 6  - Light Theremin
 
@@ -50,7 +50,7 @@ void setup() {
 
 void loop() {
   //read the input from A0 and store it in a variable
-  // TODO: Update sensorValue with the latest reading from pin A0
+  // TODO: Update sensorValue with the latest reading from pin A0 by using the analogRead() function
   sensorValue = 
 
   // map the sensor values to a wide range of pitches
